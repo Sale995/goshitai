@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\animeman\\Documents\\Celest like tutorial\\cSharp2DCharacterController.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\animeman\\Documents\\Celest like tutorial\\cSharp2DCharacterController.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\animeman\\Documents\\Celest like tutorial\\cSharp2DCharacterController.csproj",
+        "projectName": "cSharp2DCharacterController",
+        "projectPath": "C:\\Users\\animeman\\Documents\\Celest like tutorial\\cSharp2DCharacterController.csproj",
+        "packagesPath": "C:\\Users\\animeman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\animeman\\Documents\\Celest like tutorial\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\animeman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "jsonknowntypes": {
+              "target": "Package",
+              "version": "[0.5.4, )"
+            },
+            "newtonsoft.json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
